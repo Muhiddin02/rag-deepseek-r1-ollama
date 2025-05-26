@@ -18,7 +18,7 @@ NOTE:All the steps(commands) are for MAC/linux
 Follow the steps below to set up and run the application:
 Before Cloning the repo, please make sure yo have installed ollama and docker
 
-### 1. Run locally running Ddrant db
+### 1. Run locally running Qdrant db
 
 ```bash
 docker pull qdrant/qdrant
